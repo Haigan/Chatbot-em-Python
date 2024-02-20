@@ -1,15 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
 
-# In[2]:
-
-
-"""
-NOME: Matheus Italo
-Matrícula: #####
-CHATBOT: DEX
-OBJETIVO: USO DIÁRIO EM PESQUISAS E INTERAÇÃO
-"""
 
 import wikipedia
 import pyttsx3
